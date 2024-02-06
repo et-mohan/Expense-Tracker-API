@@ -1,0 +1,16 @@
+{
+  "name": "expensetracker",
+  "version": "1.0.0",
+  "description": "expense tracker using mongodb lib",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "mohankumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "nodemon": "^3.0.3"
+  }
+}
